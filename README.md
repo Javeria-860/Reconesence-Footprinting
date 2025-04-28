@@ -1,4 +1,4 @@
-During my internship, I conducted footprinting as part of an initial information-gathering process. The goal was to collect publicly available data about a target system or network to identify potential vulnerabilities.
+ I conducted footprinting as part of an initial information-gathering process. The goal was to collect publicly available data about a target system or network to identify potential vulnerabilities.
 
 The task involved gathering details like domain registration information, network infrastructure, and associated IP addresses. I also explored publicly accessible resources, such as websites and social media, to find valuable insights about the target organization or individuals.
 
